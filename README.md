@@ -38,7 +38,7 @@ cd Hyperparameter-tuning
 Hyperparameter tuning was performed using Keras Tuner with techniques such as random search and Bayesian optimization. Key hyperparameters tuned include learning rate, number of layers, activation functions, and dropout rates.
 
 ## Results
-Detailed evaluation of the models is available in the Jupyter notebooks provided in the `notebooks` directory. The CNN model demonstrated superior performance in accuracy, precision, recall, and F1-score compared to the MLP model.
+Detailed evaluation of the models is available in the Jupyter notebook provided. The CNN model demonstrated superior performance in accuracy, precision, recall, and F1-score compared to the MLP model.
 
 ## Contributing
 Contributions are welcome. Please open an issue first to discuss what you would like to change or add.
